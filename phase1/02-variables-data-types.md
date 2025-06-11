@@ -15,18 +15,18 @@
 - [ ✓ ] `symbol` - unique identifiers
 
 ## Type Coercion and Conversion
-- [ ] Automatic type conversion
-- [ ] Explicit type conversion
-- [ ] `String()`, `Number()`, `Boolean()`
-- [ ] `parseInt()` and `parseFloat()`
+- [ ✓ ] Automatic type conversion
+- [ ✓ ] Explicit type conversion
+- [ ✓ ] `String()`, `Number()`, `Boolean()`
+- [ ✓ ] `parseInt()` and `parseFloat()`
 
 ## Template Literals
-- [ ] String interpolation
-- [ ] Multi-line strings
-- [ ] Expression embedding
+- [ ✓ ] String interpolation
+- [ ✓ ] Multi-line strings
+- [ ✓ ] Expression embedding
 
 ## Practice Exercises
-- [ ] Variable declaration and assignment
-- [ ] Type conversion exercises
-- [ ] Template literal usage
-- [ ] Data type identification 
+- [ ✓ ] Variable declaration and assignment
+- [ ✓ ] Type conversion exercises
+- [ ✓ ] Template literal usage
+- [ ✓ ] Data type identification 
